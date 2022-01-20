@@ -148,6 +148,5 @@ public class ConwayGameOfLifeFitness extends ConwayGameOfLife
         System.out.printf("Design One has a fitness of %d\n",board.getFitness(designOne));
         System.out.printf("Design Two has a fitness of %d\n\n",board.getFitness(designTwo));
         board.optimizer(7200000);
-
    }
 }
