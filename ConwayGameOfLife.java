@@ -154,7 +154,6 @@ public class ConwayGameOfLife
          System.out.println();
       }
    }
-   
    /*public static void main(String[] args)
    {
       ConwayGameOfLife board = new ConwayGameOfLife(30);
